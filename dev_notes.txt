@@ -1,0 +1,5 @@
+
+need to include Pillow for mglearn package
+
+pip install Pillow
+
